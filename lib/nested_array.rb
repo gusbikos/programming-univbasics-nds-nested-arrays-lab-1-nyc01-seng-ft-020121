@@ -41,7 +41,7 @@ def sorted_matrix
       "Oranges",
       "Pineapple",
       "Watermelon"
-    ]
+    ],
     ORGANIC_PRODUCE = [
       "Asparagus",
       "Avocadoes",
